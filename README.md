@@ -1,4 +1,4 @@
 # Eid-ul-Fitar-Greetings
 A simple Greetings for Eid.
 # Greetings
-<img src = "https://github.com/AhmedRaja1/Eid-ul-Fitar-Greetings/blob/master/eid-github.png">
+<img src = "https://raw.githubusercontent.com/AhmedRaja1/Eid-ul-Fitar-Greetings/master/eid-github.png">
