@@ -1,4 +1,4 @@
-# Eid-ul-Fitar Greetings
+# Eid-ul Fitar Greetings
 A Minimal Styled Greetings for Eid.
 # Eid Greeings Web Application
 # EID Greetings
