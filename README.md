@@ -1,6 +1,6 @@
 # Eid-ul-Fitar-Greetings
 ## A Minimal Greetings web app for Eid.
-## Click here to see
+## Click here for Live Preview!
 https://ahmedraja1.github.io/Eid-ul-Fitar-Greetings/
 
 
